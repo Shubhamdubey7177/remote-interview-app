@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Mock Interviewer AI",
+  "description": "A real-time technical interview simulator where users solve LeetCode-style problems with an AI interviewer providing feedback and guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
